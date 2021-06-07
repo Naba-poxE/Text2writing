@@ -20,7 +20,7 @@ npm run dev
 There are lot of resources (articles, courses, videos) available for getting started with git and GitHub you can search and follow any of the resource you like.
 
 - You can pick any of the issues from [Issues](https://github.com/Naba-poxE/Text2writing/issues) or If you feel like it needs extra feature or if you find bug, you can create your own issue.
-- You can drop a comment on issue saying "Hi Saurabh, let me work on this or I will kill you 🔪" to avoid multiple people working on the same PR.
+- You can drop a comment on issue saying "Hi nabaexpo, let me work on this or I will kill you 🔪" to avoid multiple people working on the same PR.
 
 Lastly, It is fine if you mess something up. If there is anything wrong in the PR I will let you know how to fix that in comments of the PR.
 
