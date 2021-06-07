@@ -34,10 +34,7 @@ body.dark {
   --delete-button-borders: #e76f7b;
   --font-color-delete: #e76f7b;
 }
-@font-face {
-  font-family: 'Hindi_Font';
-  src: url(../fonts/Hindi_Type.ttf);
-}
+
 @font-face {
   font-family: 'nabaexpo_main';
   src: url(../fonts/nabaexpo.OTF);
