@@ -6,8 +6,8 @@
 
 ## 🌠 Output
 
+![sample](https://user-images.githubusercontent.com/49324233/121061780-024cf180-c7e4-11eb-80d6-a67d315dbf9d.jpeg)
 
-<img width="400" alt="Sample image of output" src="sample.jpeg" />
 
 ## 📚 Libraries used
 
